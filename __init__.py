@@ -114,6 +114,8 @@ class CPE(object):
                 else:
                     pass
 
+    some change for commit test
+
     def has_wildcards(self):
         """Return true or false if any of this cpe's fields contain
         wildcards
